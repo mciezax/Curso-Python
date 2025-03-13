@@ -1,0 +1,6 @@
+def message(what, number):
+    print("Ingresa", what, "numero", number)
+
+message ("telefono", 11)
+message ("precio", 23)
+message ("edad", 24)

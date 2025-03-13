@@ -1,0 +1,6 @@
+def resta(a, b):
+    print(a - b)
+ 
+resta(5, 2) # salida: 3
+resta(2, 5) # salida: -3
+resta(23, 4)
